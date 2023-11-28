@@ -1,0 +1,12 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Exception_stud\End\Hello_Exception_stud\bin\Debug\Hello_Exception_stud.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Exception_stud\End\Hello_Exception_stud\bin\Debug\Hello_Exception_stud.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Exception_stud\End\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Exception_stud\End\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Exception_stud\End\Hello_Exception_stud\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Exception_stud\End\Hello_Exception_stud\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.pdb
+D:\Курсы\3_2\3_2\(end)Hello_Exception_stud\Hello_Exception_stud\Hello_Exception_stud\bin\Debug\Hello_Exception_stud.exe
+D:\Курсы\3_2\3_2\(end)Hello_Exception_stud\Hello_Exception_stud\Hello_Exception_stud\bin\Debug\Hello_Exception_stud.pdb
+D:\Курсы\3_2\3_2\(end)Hello_Exception_stud\Hello_Exception_stud\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.csproj.CoreCompileInputs.cache
+D:\Курсы\3_2\3_2\(end)Hello_Exception_stud\Hello_Exception_stud\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.exe
+D:\Курсы\3_2\3_2\(end)Hello_Exception_stud\Hello_Exception_stud\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.pdb
+D:\Курсы\3_2\3_2\(end)Hello_Exception_stud\Hello_Exception_stud\Hello_Exception_stud\obj\Debug\Hello_Exception_stud.csprojAssemblyReference.cache
